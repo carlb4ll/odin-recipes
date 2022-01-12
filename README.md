@@ -1,3 +1,3 @@
 # odin-recipes
 
-A basic HTML recipe website
+A basic HTML recipe website | No CSS to be used
